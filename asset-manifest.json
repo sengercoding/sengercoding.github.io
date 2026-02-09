@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6384770d.css",
-    "main.js": "/static/js/main.16ce04c2.js",
-    "static/js/453.cbcc4981.chunk.js": "/static/js/453.cbcc4981.chunk.js",
-    "index.html": "/index.html",
-    "main.6384770d.css.map": "/static/css/main.6384770d.css.map",
-    "main.16ce04c2.js.map": "/static/js/main.16ce04c2.js.map",
-    "453.cbcc4981.chunk.js.map": "/static/js/453.cbcc4981.chunk.js.map"
+    "main.css": "/sengercoding.github.io/static/css/main.6384770d.css",
+    "main.js": "/sengercoding.github.io/static/js/main.5ff1a13c.js",
+    "static/js/453.cbcc4981.chunk.js": "/sengercoding.github.io/static/js/453.cbcc4981.chunk.js",
+    "index.html": "/sengercoding.github.io/index.html",
+    "main.6384770d.css.map": "/sengercoding.github.io/static/css/main.6384770d.css.map",
+    "main.5ff1a13c.js.map": "/sengercoding.github.io/static/js/main.5ff1a13c.js.map",
+    "453.cbcc4981.chunk.js.map": "/sengercoding.github.io/static/js/453.cbcc4981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6384770d.css",
-    "static/js/main.16ce04c2.js"
+    "static/js/main.5ff1a13c.js"
   ]
 }
